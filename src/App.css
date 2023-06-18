@@ -1,0 +1,10 @@
+* {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Source Code Pro';
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

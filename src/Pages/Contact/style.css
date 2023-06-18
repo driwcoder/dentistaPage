@@ -1,0 +1,36 @@
+.contato-container {
+  padding-top: 90px;
+}
+
+.lista-medicos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.lista-medicos li {
+  list-style: none;
+  max-width: 300px;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.lista-medicos li img {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+.lista-medicos li p:first-of-type {
+  font-weight: bold;
+}
+p{
+  text-align: center;
+}
+
+.contato-mapa{
+  margin: 40px 0;
+}
+.contato-mapa p{
+  margin: 10px 0;
+}
